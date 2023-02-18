@@ -1,0 +1,48 @@
+
+
+.rb {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  color: rgb(103, 2, 23);
+  align-items: center;
+  position: relative;
+  padding: 0rem 0.5rem;
+  background-color: gray;
+  box-shadow: 0 2px 2px 2px rgba(9, 9, 9, 0.23);
+  left: 2px;
+  right: 2px;
+}
+.rb ul{
+  display: flex;
+ 
+}
+.rb ul li{
+  margin: 5px;
+  list-style: none;
+  margin: 13px 20px;
+  cursor: pointer;
+
+}
+
+.rb ul li a{
+  color: rgb(241, 227, 227);
+  text-decoration: none;
+  padding: 3px 3px;
+}
+.rb ul p{
+  color: rgb(33, 35, 20);
+  background-color: rgb(255, 255, 242);
+  padding: 2px 25px;
+  border-radius: 10px;
+  margin: 2px 150px;
+  max-width: 40px;
+  /*text-shadow: 1px 1px 1px rgb(190, 54, 20);  */
+  cursor: pointer;
+
+}
+
+.Container {
+  color: purple;
+}
+
